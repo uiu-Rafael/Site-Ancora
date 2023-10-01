@@ -2,7 +2,7 @@
 
 Este repositório contém o código-fonte de um site de portifólio demonstrativo, desenvolvido em HTML, CSS e JavaScript. O objetivo deste projeto é demonstrar minhas habilidades de desenvolvimento web.
 
-## Conceitos aperfeiçoados
+## :eyes: Conceitos aperfeiçoados
 
 No desenvolvimento deste portfólio, aprimorei os seguintes conceitos:
 
@@ -22,8 +22,9 @@ No desenvolvimento deste portfólio, aprimorei os seguintes conceitos:
 ## :information_source: Como executar
 
 Para executar este projeto, clone o repositório e instale as dependências com o comando:
+
     # Clonando este repositório
-    $ git clone https://github.com/augustocesarfmo/site-ancora.git
+    $ git clone https://github.com/uiu-Rafael/Site-Ancora.git
     
     # Acessando o repositório
     $ cd site-ancora
